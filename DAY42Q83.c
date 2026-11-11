@@ -20,8 +20,8 @@ if(str[i]=='A'||str[i]=='E'||str[i]=='I'||str[i]=='O'||str[i]=='U'||
          count_consonant++;
     }
 }
-printf("The nnumber of vowel in the srring is : %d \n",count_vowel);
-printf("The number of consonant in the srring is :%d ",count_consonant);
+printf("The number of vowel in the string is : %d \n",count_vowel);
+printf("The number of consonant in the string is : %d ",count_consonant);
 
     return 0;
 }
